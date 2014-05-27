@@ -41,8 +41,8 @@ Progress Harian
 27/5 
 Daily Scrum
 Jansen:
-1.
-2. 
+1.Hari ini saya akan menambahkan logo mikroskil sama nama dosen pembimbing beserta nama kelompok kami
+2.Kendala ada pada di penguasaan sintaks sintaks pada html
 
 Christian Yaputra:
 1.
