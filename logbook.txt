@@ -49,5 +49,5 @@ Christian Yaputra:
 2.Kendala ada pada penguasaan html yang jarang di pakai
 
 Kelvin Hermawan:
-1.
-2.
+1.Hari ini saya akan menambahkan dua buah lagi kelebihan dalam project kami
+2.Kendala ada pada proses clone dari repository master ke repository lokal
