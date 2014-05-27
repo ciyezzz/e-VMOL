@@ -1,0 +1,53 @@
+=======================
+INFORMASI UMUM
+
+Nama Kelompok : +1 ironwood branch
+Alamat Github : https://github.com/kampoengboy/e-VMOL
+Alamat Trello : https://trello.com/b/PyOwFAAp/e-vmol
+Judul Topik: VMOL(e-Video Mail OnLine)
+Anggota 1
+Nama: Michael
+NIM: 12.111.0804
+Anggota 2
+Nama:Jansen
+NIM:12.111.0791
+Anggota 3
+Nama:Christian Yaputra
+NIM: 12.111.1478
+Anggota 4
+Nama:Kelvin Hermawan
+NIM:12.111.0782
+=======================
+
+
+SPRINT
+------
+Sprint 1: 
+26/5 - 28/5
+Scrummaster: Michael (12.111.0804)
+
+Sprint 2:
+
+
+Sprint 3: 
+
+
+Sprint 4: 
+
+
+Progress Harian
+------------------------------------
+
+27/5 
+Daily Scrum
+Jansen:
+1.
+2. 
+
+Christian Yaputra:
+1.
+2.
+
+Kelvin Hermawan:
+1.
+2.
