@@ -56,3 +56,9 @@ Kelvin Hermawan:
 Daily Scrum
 Kelvin Hermawan:
 1.Hari ini saya akan menambahkan slide baru tentang efisiensi project kami
+
+Jansen:
+1. Hari ini saya menambah detail tentang free dan paid user
+2. Kendala ada di koneksi internet, ketika akan push ke master jadi error sehingga harus ulang lagi -_-
+   trus merge pull request agak bingung dan sudah tanya langsung ke bos scrum master
+3. Besok akan menambahkan detail tentang kelebihan v-mol
