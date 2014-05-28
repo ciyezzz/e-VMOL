@@ -64,6 +64,6 @@ Jansen:
 3. Besok akan menambahkan detail tentang kelebihan v-mol
 
 Christian Yaputra:
-1.Hari ini saya mengubah background agar tidak polos dan mengedit logo Mikroskil
+1. Hari ini saya mengubah background agar tidak polos dan mengedit logo Mikroskil
 2. Kendala ada pada proses pull yang harus menunggu developer lain push terlebih dahulu sehingga saya harus menunggu untuk dapat melakukan pull
 3. Besok akan melakukan pengeditan pada format tulisan agar tampak lebih menarik
