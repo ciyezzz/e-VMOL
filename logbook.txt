@@ -51,3 +51,8 @@ Christian Yaputra:
 Kelvin Hermawan:
 1.Hari ini saya akan menambahkan dua buah lagi kelebihan dalam project kami
 2.Kendala ada pada proses clone dari repository master ke repository lokal
+
+28/5
+Daily Scrum
+Kelvin Hermawan:
+1.Hari ini saya akan menambahkan slide baru tentang efisiensi project kami
