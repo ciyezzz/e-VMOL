@@ -46,16 +46,16 @@ article.bespoke-parent {
   background: linear-gradient(top, #fff 0, #d3d3d3 100%);
 }
 .bespoke-slide {
-  -webkit-transition: all 0.6s ease;
-  -moz-transition: all 0.6s ease;
-  -o-transition: all 0.6s ease;
-  -ms-transition: all 0.6s ease;
-  transition: all 0.6s ease;
-  -webkit-transform-origin: 50% 50% -300px;
-  -moz-transform-origin: 50% 50% -300px;
-  -o-transform-origin: 50% 50% -300px;
-  -ms-transform-origin: 50% 50% -300px;
-  transform-origin: 50% 50% -300px;
+  -webkit-transition: all 0.8s ease;
+  -moz-transition: all 0.8s ease;
+  -o-transition: all 0.8s ease;
+  -ms-transition: all 0.8s ease;
+  transition: all 0.8s ease;
+  -webkit-transform-origin: -50% 150%;
+  -moz-transform-origin: -50% 150%;
+  -o-transform-origin: -50% 150%;
+  -ms-transform-origin: -50% 150%;
+  transform-origin: -50% 150%;
   display: -webkit-box;
   display: -moz-box;
   display: -ms-box;
@@ -103,11 +103,11 @@ article.bespoke-parent {
   }
 }
 .bespoke-before {
-  -webkit-transform: translateX(500px) rotateY(-45deg) translateX(-320px);
-  -moz-transform: translateX(500px) rotateY(-45deg) translateX(-320px);
-  -o-transform: translateX(500px) rotateY(-45deg) translateX(-320px);
-  -ms-transform: translateX(500px) rotateY(-45deg) translateX(-320px);
-  transform: translateX(500px) rotateY(-45deg) translateX(-320px);
+  -webkit-transform: translateX(500px) rotateY(-85deg) rotateX(-50deg);
+  -moz-transform: translateX(500px) rotateY(-85deg) rotateX(-50deg);
+  -o-transform: translateX(500px) rotateY(-85deg) rotateX(-50deg);
+  -ms-transform: translateX(500px) rotateY(-85deg) rotateX(-50deg);
+  transform: translateX(500px) rotateY(-85deg) rotateX(-50deg);
 }
 .bespoke-after {
   -webkit-transform: translateX(-500px) rotateY(-120deg) rotateX(50deg);
