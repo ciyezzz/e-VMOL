@@ -7,6 +7,7 @@ slide_height = 480px
 
 slide_transition_length = .6s
 slide_transition_easing = ease
+slide_transition_rotate_y = 45deg
 // Safari bugs out on 3d transform-origins, so we have to fake it
 slide_transition_nudge_x = -500px
 
@@ -74,10 +75,10 @@ article
     margin: 0
 
 .bespoke-before
-  transform: rotateY(50deg) rotateX(-30deg)
+  transform: translateX(slide_transition_nudge_x * -1) rotateY(slide_transition_rotate_y * -1) translateX(slide_width / -2)
 
 .bespoke-after
-  transform: rotateY(-120deg) rotateX(50deg)
+  transform: translateX(slide_transition_nudge_x) rotateY(-120deg) rotateX(50deg)
   @media print
     transform: none
 
