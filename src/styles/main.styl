@@ -7,7 +7,6 @@ slide_height = 480px
 
 slide_transition_length = .6s
 slide_transition_easing = ease
-slide_transition_rotate_y = 90deg
 // Safari bugs out on 3d transform-origins, so we have to fake it
 slide_transition_nudge_x = -500px
 
@@ -33,7 +32,6 @@ bullet_transition_translate_x = 16px
 // bespoke.js layout styles
 
 article
-  transition: background slide_transition_length slide_transition_easing
   display: none
   &.bespoke-parent
     display: block
@@ -51,12 +49,8 @@ article
   background: linear-gradient(white, lightgrey)
   
 .bespoke-slide
-  transition:
-    transform slide_transition_length slide_transition_easing,
-    opacity slide_transition_length slide_transition_easing,
-    background slide_transition_length slide_transition_easing
-  transform-origin: 50% 50% 0
-  backface-visibility: hidden
+  transition: all .6s ease
+  transform-origin: 50% 50% -300px
   display: flex
   flex-direction: column
   justify-content: center
@@ -69,7 +63,6 @@ article
   margin-top: (slide_height / 2) * -1
   left: 50%
   margin-left: (slide_width / 2) * -1
-  background: linear-gradient(white, lightgrey)
   padding: 40px
   border-radius: 0
   @media print
@@ -81,10 +74,10 @@ article
     margin: 0
 
 .bespoke-before
-  transform: translateX(slide_transition_nudge_x * -1) translateX(slide_width / -2) rotateY(slide_transition_rotate_y * -1) translateX(slide_width / -2)
+  transform: rotateY(50deg) rotateX(-30deg)
 
 .bespoke-after
-  transform: translateX(slide_transition_nudge_x) translateX(slide_width / 2) rotateY(slide_transition_rotate_y) translateX(slide_width / 2)
+  transform: rotateY(-120deg) rotateX(50deg)
   @media print
     transform: none
 
