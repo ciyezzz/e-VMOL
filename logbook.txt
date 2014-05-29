@@ -86,3 +86,8 @@ unexpected token attrs
 destination not written because compiled files were empty
 terselesaikan sendiri
 3. besok akan lanjut tambahkan detail kelebihan lagi
+
+Michael
+1. Semalam saya mencoba variasi byk mode style Slide CSS
+2. Hari ini saya mengedit style CSS Main Presentation  
+3. Kendala ada pada ketidaktahuan tentang menambahkan variasi slide ke dalam Main Presentation
