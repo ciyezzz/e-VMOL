@@ -74,3 +74,15 @@ Daily Scrum
 Kelvin Hermawan:
 1. Hari ini saya akan menambahkan slide baru tentang perbedaan VMOL dengan aplikasi lain
 2. Kendala ada di koneksi internet yang lambat, sehingga susah untuk mengupdate card di trello
+
+Jansen:
+1. Hari ini saya menambah detail dari kelebihan e-VMOL dalam aspek efisiensi
+2. Kendala ada pada error (entah kenapa) muncul sbb:
+(pada waktu pull) :
+fatal : unable to create : blablabla
+terselesaikan dengan cara delete file index.lock dan melakukan git reset pada repository 
+(pada waktu edit presentasi) :
+unexpected token attrs
+destination not written because compiled files were empty
+terselesaikan sendiri
+3. besok akan lanjut tambahkan detail kelebihan lagi
