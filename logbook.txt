@@ -27,7 +27,8 @@ Sprint 1:
 Scrummaster: Michael (12.111.0804)
 
 Sprint 2:
-
+29/5 - 31/5
+Scrummaster: Jansen (12.111.0791)
 
 Sprint 3: 
 
@@ -67,3 +68,9 @@ Christian Yaputra:
 1. Hari ini saya mengubah background agar tidak polos dan mengedit logo Mikroskil
 2. Kendala ada pada proses pull yang harus menunggu developer lain push terlebih dahulu sehingga saya harus menunggu untuk dapat melakukan pull
 3. Besok akan melakukan pengeditan pada format tulisan agar tampak lebih menarik
+
+29/5
+Daily Scrum
+Kelvin Hermawan:
+1. Hari ini saya akan menambahkan slide baru tentang perbedaan VMOL dengan aplikasi lain
+2. Kendala ada di koneksi internet yang lambat, sehingga susah untuk mengupdate card di trello
