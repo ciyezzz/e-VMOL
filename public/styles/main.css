@@ -219,7 +219,12 @@ li.bespoke-bullet-inactive {
   transition: width 0.6s ease;
   position: absolute;
   height: 100%;
-  background: #0089f3;
+  background: -webkit-gradient(linear, right top, left top, color-stop(0, #add8e6), color-stop(1, #00f));
+  background: -webkit-linear-gradient(right, #add8e6 0, #00f 100%);
+  background: -moz-linear-gradient(right, #add8e6 0, #00f 100%);
+  background: -o-linear-gradient(right, #add8e6 0, #00f 100%);
+  background: -ms-linear-gradient(right, #add8e6 0, #00f 100%);
+  background: linear-gradient(right, #add8e6 0, #00f 100%);
   -webkit-border-radius: 0 4px 4px 0;
   border-radius: 0 4px 4px 0;
 }
