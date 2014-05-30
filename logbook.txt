@@ -96,3 +96,9 @@ Christian Yaputra:
 1. Hari ini saya menambahkan slide baru tentang mengapa vmol disebut terobosan terbaru social media
 2. kendala hari ini terjadi error ketika hendak di push pertama kali tetapi yang kedua kali berhasil
 3. besok akan menambahkan slide lagi untuk hal hal yang belum dipaparkan secara detail
+
+30/5
+Daily Scrum
+Kelvin Hermawan:
+1. Hari ini saya akan menambahkan satu buah fitur baru untuk paid user VMOL
+2. Kendala ada pada sulitnya pemilihan kata-kata yang bagus untuk presentasi kami
