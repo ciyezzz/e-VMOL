@@ -102,3 +102,8 @@ Daily Scrum
 Kelvin Hermawan:
 1. Hari ini saya akan menambahkan satu buah fitur baru untuk paid user VMOL
 2. Kendala ada pada sulitnya pemilihan kata-kata yang bagus untuk presentasi kami
+
+Michael
+1. Kemarin saya mengedit style CSS Main Presentation dan melakukan modifikasi agar semua browser compatible terhadap style CSS tersebut.
+2. Hari ini saya mencari-cari style CSS lain yang mungkin menarik untuk dimasukkan ataupun ditambahkan ke Main Presentation dan menambahkan Slide Harga Ekonomis
+3. Kendala untuk hari ini tidak ada.
