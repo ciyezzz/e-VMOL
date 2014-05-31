@@ -128,3 +128,8 @@ Christian Yaputra
 1. Hari ini saya menambahkan slide Moder-Fashion design interface
 2. Tidak ada kendala
 3. Hari berikutnya akan menambahkan preview tampilan vmol
+
+Michael
+1. Kemarin saya menambahkan slide Harga Ekonomis
+2. Hari ini saya membuat blueprint sederhana(scratch) VMOL
+3. Kendala mungkin ada pada pembuatan design VMOL itu sendiri.
