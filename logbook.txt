@@ -146,3 +146,7 @@ Daily Scrum
 Kelvin Hermawan:
 1. Hari ini saya mengedit penjelasan tentang modern-fashion design interface dan menambah satu penjelasan tambahan ke dalamnya
 2. Tidak ada kendala
+
+Michael
+1. Hari ini saya mengerjakan kembali scratch VMOL dan menambah slide Target Bisnis VMOL
+2. Tidak ada kendala
