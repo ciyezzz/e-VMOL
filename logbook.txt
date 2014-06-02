@@ -31,7 +31,8 @@ Sprint 2:
 Scrummaster: Jansen (12.111.0791)
 
 Sprint 3: 
-
+2/6 - 4/6
+Scrummaster : Kelvin Hermawan (12.111.0782)
 
 Sprint 4: 
 
@@ -124,3 +125,24 @@ Kelvin Hermawan:
 1. Hari ini saya menambahkan slide baru tentang MOdern-Fashion Design Interface
 2. Tidak menemukan kendala apapun
 3. Besok saya akan menambahkan fitur yang belum dipaparkan sebelumnya
+
+Jansen
+1. Hari ini saya mengedit detail dari aspek "mengapa dapat memperluas jaringan sosial" serta menambah perbandingan nya dengan aplikasi lain (CS 24 jam)
+2. Lancar-lancar saja (tidak ada kendala)
+3. Hari berikutnya akan menambah / mengedit tampilan vmol sesuai instruksi komandan
+
+Christian Yaputra
+1. Hari ini saya menambahkan slide Moder-Fashion design interface
+2. Tidak ada kendala
+3. Hari berikutnya akan menambahkan preview tampilan vmol
+
+Michael
+1. Kemarin saya menambahkan slide Harga Ekonomis
+2. Hari ini saya membuat blueprint sederhana(scratch) VMOL
+3. Kendala mungkin ada pada pembuatan design VMOL itu sendiri.
+
+2/6
+Daily Scrum
+Kelvin Hermawan:
+1. Hari ini saya mengedit penjelasan tentang modern-fashion design interface dan menambah satu penjelasan tambahan ke dalamnya
+2. Tidak ada kendala
