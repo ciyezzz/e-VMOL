@@ -160,3 +160,9 @@ Christian Yaputra
 1. Hari ini mengedit pengetikan teks
 2. Tidak ada kendala
 3. Besok akan mulai mengerjakan tampilan vmol
+
+3/6
+Daily Scrum
+Kelvin Hermawan:
+1. Hari ini saya menambahkan satu lagi kelebihan VMOL beserta penjelasannya
+2. Kendala ada pada pemilihan kata-kata dan juga desain teks
