@@ -188,3 +188,8 @@ Jansen:
 1. Hari ini merapikan slide dan mempersingkat agar lebih menarik
 2. Tidak ada kendala
 3. Besok akan memperindah presentasi lagi
+
+Michael
+1. Kemarin saya mengedit slide
+2. Hari ini saya menambahkan file scratch ke repository sebagai gambaran sederhana untuk membuat tampilan sederhana VMOL
+3. Tidak ada kendala
