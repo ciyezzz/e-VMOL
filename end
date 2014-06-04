@@ -1,0 +1,501 @@
+[33mcommit 79fa5fc24033d9aae51d2bab1093a2f22ed469ef[m
+Author: ciyezzz <christianyaputra@hotmail.com>
+Date:   Tue Jun 3 22:50:24 2014 +0700
+
+    update logbook
+
+[33mcommit 1a04fa8b2d962f9e0fb528c302a5b9c027c3df76[m
+Author: ciyezzz <christianyaputra@hotmail.com>
+Date:   Tue Jun 3 22:47:47 2014 +0700
+
+    edit kecil-kecilan
+
+[33mcommit dd731b60021e171ee20e29ba4ec8b489da5a643d[m
+Merge: ebff4f3 468286f
+Author: ciyezzz <christianyaputra@hotmail.com>
+Date:   Tue Jun 3 22:17:09 2014 +0700
+
+    Merge branch 'master' of https://github.com/kampoengboy/e-VMOL
+
+[33mcommit 468286fdd21a97d64b4230e1a18a67def17d0a9e[m
+Author: kampoengboy <mike_visualsoft@yahoo.com>
+Date:   Tue Jun 3 21:55:43 2014 +0700
+
+    Edit Logbook and Edit Slide
+
+[33mcommit bf073d392966310393c3930f42a75d2a463423e2[m
+Merge: 4ec7510 8916a44
+Author: Michael <mike_visualsoft@yahoo.com>
+Date:   Tue Jun 3 21:11:48 2014 +0700
+
+    Merge pull request #21 from khleonardo/master
+    
+    Tambah kelebihan VMOL beserta penjelasannya
+
+[33mcommit 8916a44056e02fc8d906ea03f91e83592397a861[m
+Author: Kelvin Hermawan Leonardo <hermawan_kelvin@yahoo.com>
+Date:   Tue Jun 3 10:04:46 2014 +0700
+
+    Tambah kelebihan VMOL beserta penjelasannya
+
+[33mcommit 4ec7510c072d0a9d77ef36f3fbbcff412975b6e9[m
+Merge: aacf962 ebff4f3
+Author: Michael <mike_visualsoft@yahoo.com>
+Date:   Tue Jun 3 00:04:52 2014 +0700
+
+    Merge pull request #20 from ciyezzz/master
+    
+    pengeditan ketikan teks dan update logbook
+
+[33mcommit ebff4f39701af0521cf49aa62a605354adc6ac6a[m
+Author: ciyezzz <christianyaputra@hotmail.com>
+Date:   Mon Jun 2 23:06:12 2014 +0700
+
+    pengeditan ketikan teks dan update logbook
+
+[33mcommit aacf96249e228f2bd2cbd7341f5f28efcaef720b[m
+Merge: 794e3ad 36c41f7
+Author: Michael <mike_visualsoft@yahoo.com>
+Date:   Mon Jun 2 22:09:06 2014 +0700
+
+    Merge pull request #19 from lastfantasy/master
+    
+    tmbh detail terobosan baru social media dan target bisnis vmol serta log...
+
+[33mcommit 36c41f7258760da19252028203a9ddf9a7246e5b[m
+Author: lastfantasy <sen_coolz@yahoo.com>
+Date:   Mon Jun 2 22:04:40 2014 +0700
+
+    tmbh detail terobosan baru social media dan target bisnis vmol serta logbook
+
+[33mcommit 794e3adad35365e7ea7476c5b414e7e597071380[m
+Author: kampoengboy <mike_visualsoft@yahoo.com>
+Date:   Mon Jun 2 21:49:18 2014 +0700
+
+    Edit logbook and Add Slide Target Bisnis VMOL
+
+[33mcommit 898e631f45995117dee475de207f734608702e0c[m
+Merge: 839e0c4 9b98525
+Author: Michael <mike_visualsoft@yahoo.com>
+Date:   Mon Jun 2 10:57:11 2014 +0700
+
+    Merge pull request #18 from khleonardo/master
+    
+    Edit slide modern-fashion design interface
+
+[33mcommit 9b98525ab002785c7b1618abb44bb280b20d49fc[m
+Merge: 04fb625 839e0c4
+Author: Kelvin Hermawan Leonardo <hermawan_kelvin@yahoo.com>
+Date:   Mon Jun 2 08:46:45 2014 +0700
+
+    Edit slide modern-fashion design interface
+
+[33mcommit 839e0c4e0fb28d98cd1de4573833e4b3e14eb105[m
+Author: kampoengboy <mike_visualsoft@yahoo.com>
+Date:   Sat May 31 22:17:28 2014 +0700
+
+    Edit Logbook
+
+[33mcommit 3a3fc61d911623694057ca8d4e9fdb4c64ffd1b0[m
+Merge: 572639c f3c24d7
+Author: Michael <mike_visualsoft@yahoo.com>
+Date:   Sat May 31 21:37:57 2014 +0700
+
+    Merge pull request #17 from ciyezzz/master
+    
+    tambah slide modern design interface
+
+[33mcommit f3c24d748d92a55eece17a2232ab982c91d5d0d5[m
+Author: ciyezzz <christianyaputra@hotmail.com>
+Date:   Sat May 31 21:33:16 2014 +0700
+
+    no message
+
+[33mcommit 572639cdbfb13d188a10efc0b3d6805db1e14604[m
+Merge: 56ad5c9 e99a327
+Author: Michael <mike_visualsoft@yahoo.com>
+Date:   Sat May 31 18:33:00 2014 +0700
+
+    Merge pull request #16 from lastfantasy/master
+    
+    edit logbook
+
+[33mcommit e99a327126bee8f5c5ea2c0a2cffeeec368a96f7[m
+Author: lastfantasy <sen_coolz@yahoo.com>
+Date:   Sat May 31 18:28:00 2014 +0700
+
+    edit logbook
+    edit detail kelebihan memperluas jaringan social
+    menambah perbandingan vmol dgn yg lain
+
+[33mcommit 04fb62582a61426aba4748cc65469c1c1211da2e[m
+Author: Kelvin Hermawan Leonardo <hermawan_kelvin@yahoo.com>
+Date:   Sat May 31 08:48:53 2014 +0700
+
+    Tambah slide Modern-Fashion Design Interface
+
+[33mcommit 56ad5c9a7de1b5d9c3233e95ba2687e1e45577b2[m
+Merge: 3f64592 32408d0
+Author: Michael <mike_visualsoft@yahoo.com>
+Date:   Sat May 31 01:01:21 2014 +0700
+
+    Merge pull request #15 from ciyezzz/master
+    
+    penambahan slide mengapa dapat memperluas jaringan sosial dan pengeditan...
+
+[33mcommit 32408d0983f78dbd1ec883bdfd2cbb3227e00b75[m
+Author: ciyezzz <christianyaputra@hotmail.com>
+Date:   Sat May 31 00:01:55 2014 +0700
+
+    update logbook lo...day4
+
+[33mcommit dca56e5a04fe6a2c0120f12c60643974a2ee33b7[m
+Author: ciyezzz <christianyaputra@hotmail.com>
+Date:   Fri May 30 23:58:22 2014 +0700
+
+    penambahan slide mengapa dapat memperluas jaringan sosial dan pengeditan warna teks dan progress bar
+
+[33mcommit 3f645924ccd8e98a89cf6db020e69e3305579193[m
+Merge: eab5787 71d1eea
+Author: Michael <mike_visualsoft@yahoo.com>
+Date:   Fri May 30 22:29:15 2014 +0700
+
+    Merge pull request #14 from lastfantasy/master
+    
+    edit detail kelebihan efisien, harga ekonomis, terobosan baru social med...
+
+[33mcommit 71d1eea1b1fa753250b194653b245a2b98f950c9[m
+Author: lastfantasy <sen_coolz@yahoo.com>
+Date:   Fri May 30 22:25:56 2014 +0700
+
+    edit detail kelebihan efisien, harga ekonomis, terobosan baru social media serta perbedaannya dgn aplikasi lain
+
+[33mcommit eab57874871e30a4adf2814d01c7a2a56bf1a390[m
+Author: kampoengboy <mike_visualsoft@yahoo.com>
+Date:   Fri May 30 21:37:15 2014 +0700
+
+    Edit Logbook and Add Slide "Harga Ekonomis"
+
+[33mcommit 00008d961216a8beb613b1f8caa31b56a55f234a[m
+Merge: 7adea08 acb6aab
+Author: Michael <mike_visualsoft@yahoo.com>
+Date:   Fri May 30 11:20:33 2014 +0700
+
+    Merge pull request #13 from khleonardo/master
+    
+    Tambah fitur baru untuk paid user VMOL
+
+[33mcommit acb6aab381e3f0dac44077e026e92c7f5eadbb34[m
+Author: Kelvin Hermawan Leonardo <hermawan_kelvin@yahoo.com>
+Date:   Fri May 30 10:00:28 2014 +0700
+
+    Tambah fitur baru untuk paid user VMOL
+
+[33mcommit 7adea0861c02d514429d7af6d1cd067738e81ebc[m
+Author: kampoengboy <mike@aMichaels-MacBook-Air.local>
+Date:   Thu May 29 23:38:06 2014 +0700
+
+    Edit the CSS to fully compatible with all Browser
+
+[33mcommit e2826fcdee0421a57063217e8833a482c2924892[m
+Author: kampoengboy <mike_visualsoft@yahoo.com>
+Date:   Thu May 29 23:11:50 2014 +0700
+
+    Edit CSS
+
+[33mcommit 55f6ce57d8cb30cd620eef138d7e203e58e587ef[m
+Merge: 83ccad6 98e2c25
+Author: Michael <mike_visualsoft@yahoo.com>
+Date:   Thu May 29 22:49:41 2014 +0700
+
+    Merge pull request #12 from ciyezzz/master
+    
+    penambahan slide mengapa terobosan terbaru
+
+[33mcommit 98e2c25b1cfd5bac27d79fd945cfcd6796ec7e8c[m
+Author: ciyezzz <christianyaputra@hotmail.com>
+Date:   Thu May 29 21:54:25 2014 +0700
+
+    update logbook
+
+[33mcommit 8282626bd323f5e75f962d5ebc7d4ffca55bbedc[m
+Author: ciyezzz <christianyaputra@hotmail.com>
+Date:   Thu May 29 21:48:18 2014 +0700
+
+    perubahan sedikit, ada yang salah ketik
+
+[33mcommit 295df6cace603bb5398e44421a5f01cbc1e59a8b[m
+Author: ciyezzz <christianyaputra@hotmail.com>
+Date:   Thu May 29 21:42:19 2014 +0700
+
+    penambahan slide mengapa terobosan terbaru
+
+[33mcommit 83ccad67d7b0327bb592eb7c27ff64a32b2b5487[m
+Author: kampoengboy <mike_visualsoft@yahoo.com>
+Date:   Thu May 29 18:46:55 2014 +0700
+
+    Edit Logbook
+
+[33mcommit b95ac560c8127e5b6900e4828de6a940d9f460d7[m
+Merge: b61f9ed 5258ee3
+Author: kampoengboy <mike_visualsoft@yahoo.com>
+Date:   Thu May 29 18:38:32 2014 +0700
+
+    Merge branch 'master' of https://github.com/kampoengboy/e-VMOL
+
+[33mcommit b61f9ed412a108c5ae96d82bd42aa22f5cde0b1e[m
+Author: kampoengboy <mike_visualsoft@yahoo.com>
+Date:   Thu May 29 18:37:55 2014 +0700
+
+    Edit CSS Style Slide
+
+[33mcommit 5258ee38a7886af6d02e110d88ec27c7b7b91e35[m
+Merge: fc4d11a 2d2b62e
+Author: Michael <mike_visualsoft@yahoo.com>
+Date:   Thu May 29 13:54:54 2014 +0700
+
+    Merge pull request #11 from lastfantasy/master
+    
+    finally error recovered
+
+[33mcommit 2d2b62ea2d93aa42b53420032abcd0a4560d7ce9[m
+Author: lastfantasy <sen_coolz@yahoo.com>
+Date:   Thu May 29 13:49:13 2014 +0700
+
+    edit logbook hari ketiga
+
+[33mcommit 1a896efd228baf8868815603dac3159b59a66a57[m
+Author: lastfantasy <sen_coolz@yahoo.com>
+Date:   Thu May 29 13:44:33 2014 +0700
+
+    edit logbook hari ketiga
+
+[33mcommit f3d87a3cb1ae1c55dbfcdd5919242e7108194657[m
+Author: lastfantasy <sen_coolz@yahoo.com>
+Date:   Thu May 29 13:36:24 2014 +0700
+
+    finally error recovered
+    tambah detail kelebihan
+
+[33mcommit fc4d11a30692e77d339288aeae62e5ff58ded4cf[m
+Merge: e702ef7 32b9aff
+Author: Michael <mike_visualsoft@yahoo.com>
+Date:   Thu May 29 13:30:58 2014 +0700
+
+    Merge pull request #10 from lastfantasy/master
+    
+    recover
+
+[33mcommit 32b9aff01ce41f25756889b1344c2a461a289b78[m
+Merge: 49dee3a e702ef7
+Author: lastfantasy <sen_coolz@yahoo.com>
+Date:   Thu May 29 13:19:51 2014 +0700
+
+    testing recover
+
+[33mcommit 49dee3a68b5dfffee842435713fb1ba863a3a98b[m
+Author: lastfantasy <sen_coolz@yahoo.com>
+Date:   Thu May 29 12:54:59 2014 +0700
+
+    error
+
+[33mcommit e702ef7d000c1b58f0523d4c6061853fd63350db[m
+Merge: ec9ed52 7aa33b5
+Author: Michael <mike_visualsoft@yahoo.com>
+Date:   Thu May 29 12:13:58 2014 +0700
+
+    Merge pull request #9 from khleonardo/master
+    
+    Penambahan slide perbandingan VMOL dengan aplikasi lain
+
+[33mcommit 7aa33b5b1bbcd16625ca9ef997eadc895f973b1c[m
+Author: Kelvin Hermawan Leonardo <hermawan_kelvin@yahoo.com>
+Date:   Thu May 29 10:32:50 2014 +0700
+
+    Penambahan slide perbandingan VMOL dengan aplikasi lain
+
+[33mcommit ec9ed520354c4016ddee5c6956b928f250731fec[m
+Merge: 94a16a9 f0f5871
+Author: Michael <mike_visualsoft@yahoo.com>
+Date:   Thu May 29 00:11:02 2014 +0700
+
+    Merge pull request #8 from ciyezzz/master
+    
+    background telah diubah...dan logo ad di edit sedikit
+
+[33mcommit f0f5871092c68f7dff879b02f69e227cdddf990c[m
+Author: ciyezzz <christianyaputra@hotmail.com>
+Date:   Wed May 28 23:57:16 2014 +0700
+
+    update logbook day2
+
+[33mcommit 731408d6bf3ed3b664a414a0293a0ed9880939f6[m
+Author: ciyezzz <christianyaputra@hotmail.com>
+Date:   Wed May 28 23:55:58 2014 +0700
+
+    update logbook day2
+
+[33mcommit 6068b9ecd2fca64fab7940b843c3a6502902cbb1[m
+Author: ciyezzz <christianyaputra@hotmail.com>
+Date:   Wed May 28 23:49:40 2014 +0700
+
+    background telah diubah...dan logo ad di edit sedikit
+
+[33mcommit 94a16a9cc2824ef6fc48eb188ca8abdab2192b25[m
+Merge: aba3f62 e6d7ba3
+Author: Michael <mike_visualsoft@yahoo.com>
+Date:   Wed May 28 22:49:58 2014 +0700
+
+    Merge pull request #7 from lastfantasy/master
+    
+    edit logbook hari kedua
+
+[33mcommit e6d7ba330ad151e3418ca444c55f100a97c4ec08[m
+Author: lastfantasy <sen_coolz@yahoo.com>
+Date:   Wed May 28 22:47:06 2014 +0700
+
+    edit logbook hari kedua
+
+[33mcommit aba3f62b7e0f8db5bac32c9ce60884c28119baf1[m
+Merge: c8b82f1 84589d6
+Author: lastfantasy <sen_coolz@yahoo.com>
+Date:   Wed May 28 22:37:35 2014 +0700
+
+    Merge pull request #6 from lastfantasy/master
+    
+    edit tentang free dan paid user
+
+[33mcommit 84589d6fc5e5fd20f54e8b3747dc9d710687371e[m
+Author: lastfantasy <sen_coolz@yahoo.com>
+Date:   Wed May 28 22:36:05 2014 +0700
+
+    edit limited free user maks 50
+
+[33mcommit 126324a53ce84aa9e921489113efa1fa53d91b22[m
+Author: lastfantasy <sen_coolz@yahoo.com>
+Date:   Wed May 28 22:16:39 2014 +0700
+
+    edit tentang free dan paid user
+
+[33mcommit c8b82f197cdf684938f2fb6654426b4aa4181ac6[m
+Merge: ff95fb4 9324cda
+Author: kampoengboy <mike_visualsoft@yahoo.com>
+Date:   Wed May 28 11:01:45 2014 +0700
+
+    Merge pull request #5 from khleonardo/master
+    
+    Penambahan slide efisiensi VMOL
+
+[33mcommit 9324cda6fdea3c85aa841dcabc4ad7ce24b89040[m
+Author: Kelvin Hermawan Leonardo <hermawan_kelvin@yahoo.com>
+Date:   Wed May 28 10:30:06 2014 +0700
+
+    Penambahan slide efisiensi VMOL
+
+[33mcommit ff95fb4d2cf64e2e52038ec98d4ea09b71b22c4d[m
+Merge: a54af40 17a9ee0
+Author: kampoengboy <mike_visualsoft@yahoo.com>
+Date:   Wed May 28 00:05:13 2014 +0700
+
+    Merge pull request #4 from khleonardo/master
+    
+    Penambahan dua buah item ke bagian "kelebihan"
+
+[33mcommit 17a9ee04c916a68ecbd22ad85032eb4d1e2aa42f[m
+Author: Kelvin Hermawan Leonardo <hermawan_kelvin@yahoo.com>
+Date:   Tue May 27 23:59:53 2014 +0700
+
+    Penambahan dua buah item ke bagian "kelebihan"
+
+[33mcommit a54af40f0ca1fd233057bcc1e459ee3956ec9eb8[m
+Author: kampoengboy <mike_visualsoft@yahoo.com>
+Date:   Tue May 27 23:10:21 2014 +0700
+
+    Add Slide Kelebihan VMOL to main presentation
+
+[33mcommit 96fe54d837fdebc950574292ab759cd883bee7ca[m
+Merge: 70ae4a1 11aadeb
+Author: kampoengboy <mike_visualsoft@yahoo.com>
+Date:   Tue May 27 20:28:26 2014 +0700
+
+    Merge pull request #3 from ciyezzz/master
+    
+    tes
+
+[33mcommit 11aadebbdf61f0847b3994ee168be62e42d729ea[m
+Author: ciyezzz <christianyaputra@hotmail.com>
+Date:   Tue May 27 20:23:02 2014 +0700
+
+    tes
+
+[33mcommit 70ae4a1de78617336ac3b145064680ff50e6922f[m
+Author: ciyezzz <christianyaputra@hotmail.com>
+Date:   Tue May 27 18:55:04 2014 +0700
+
+    sudah saya tambah nim masing2
+
+[33mcommit 33568476f90ea82b583f7d1b20bd049ebd6fc49f[m
+Author: ciyezzz <christianyaputra@hotmail.com>
+Date:   Tue May 27 17:41:22 2014 +0700
+
+    edit logbook
+
+[33mcommit a23e74fc652056d1229ac5077230b25e462e7871[m
+Author: ciyezzz <christianyaputra@hotmail.com>
+Date:   Tue May 27 17:36:39 2014 +0700
+
+    penambahan STMIK MIKROSKIL dan nama anggota, silahkan masing2 anggota menambahkan nim masing2
+
+[33mcommit 120dae68db2e5303eadc3d55557d2c40aa94aaeb[m
+Merge: 4afb7a3 0d87fe3
+Author: kampoengboy <mike_visualsoft@yahoo.com>
+Date:   Tue May 27 15:56:03 2014 +0700
+
+    Merge pull request #2 from lastfantasy/master
+    
+    update logbook
+
+[33mcommit 0d87fe34f9fe702ed6442790b6de045c46f31062[m
+Author: lastfantasy <sen_coolz@yahoo.com>
+Date:   Tue May 27 15:54:08 2014 +0700
+
+    update logbook
+
+[33mcommit 4afb7a329ca8fca26403028b236e1e2c0c419eb1[m
+Author: kampoengboy <mike_visualsoft@yahoo.com>
+Date:   Tue May 27 15:44:51 2014 +0700
+
+    Add Logbook
+
+[33mcommit 95d9b3036bb35fc7d1429973dd1cef72c4dd4e38[m
+Merge: 1bfb615 155097c
+Author: kampoengboy <mike_visualsoft@yahoo.com>
+Date:   Tue May 27 15:38:34 2014 +0700
+
+    Merge pull request #1 from lastfantasy/master
+    
+    tambah logo , nama dosen, nama kelompok
+
+[33mcommit 155097cdbbcc76bf5206eb5ce0b9ecd2b565f678[m
+Author: lastfantasy <sen_coolz@yahoo.com>
+Date:   Tue May 27 15:33:51 2014 +0700
+
+    tambah logo , nama dosen, nama kelompok
+
+[33mcommit 1bfb615d3f954dc818db009b52ddc366aec485e0[m
+Author: kampoengboy <mike_visualsoft@yahoo.com>
+Date:   Mon May 26 23:20:45 2014 +0700
+
+    Update README
+
+[33mcommit 0bcc605b530ed9b6b77d5767609a1a5e51014062[m
+Author: kampoengboy <mike_visualsoft@yahoo.com>
+Date:   Mon May 26 23:17:07 2014 +0700
+
+    ADD FILE TO MASTER
+
+[33mcommit 4336423e5d282dbe38fdf4d83480e7ac14874644[m
+Author: kampoengboy <mike_visualsoft@yahoo.com>
+Date:   Mon May 26 23:12:41 2014 +0700
+
+    first commit

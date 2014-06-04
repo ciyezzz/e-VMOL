@@ -193,3 +193,8 @@ Michael
 1. Kemarin saya mengedit slide
 2. Hari ini saya menambahkan file scratch ke repository sebagai gambaran sederhana untuk membuat tampilan sederhana VMOL
 3. Tidak ada kendala
+
+Christian Yaputra
+1. Hari ini saya mendesain tampilan vmol
+2. Tidak ada kendala
+3. Besok akan melanjutkan desain tampilan vmol
