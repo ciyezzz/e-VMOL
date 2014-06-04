@@ -181,3 +181,10 @@ Jansen
 1. Hari ini tambah sedikit keterangan
 2. Tidak ada kendala
 3. Besok akan menyempurnakan lagi presentasi
+
+4/6
+Daily Scrum
+Jansen:
+1. Hari ini merapikan slide dan mempersingkat agar lebih menarik
+2. Tidak ada kendala
+3. Besok akan memperindah presentasi lagi
