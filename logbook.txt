@@ -35,7 +35,8 @@ Sprint 3:
 Scrummaster : Kelvin Hermawan (12.111.0782)
 
 Sprint 4: 
-
+5/6 - 7/6
+Scrummaster : Christian Yaputra (12.111.1478)
 
 Progress Harian
 ------------------------------------
@@ -211,3 +212,8 @@ Michael
 2. Hari ini saya mengedit file css dan memberikan saran terhadap design scratch VMOL
 3. Tidak ada kendala
 >>>>>>> bedfef71dab9c66d69c32a9e38ec9c893936ec4a
+
+Christian Yaputra
+1. Hari ini saya melanjutkan desain tampilan vmol kemarin
+2. Tidak ada kendala
+3. Besok akan melanjutkan desain lagi
