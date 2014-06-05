@@ -200,7 +200,14 @@ Christian Yaputra
 3. Besok akan melanjutkan desain tampilan vmol
 
 5/6
+Daily Scrum
+Jansen:
+1. Hari ini merapikan slide
+2. Masalah lagi-lagi di koneksi internet
+3. Besok akan meyempurnakan lagi
+
 Michael
 1. Kemarin saya menambahkan file scratch ke repository
 2. Hari ini saya mengedit file css dan memberikan saran terhadap design scratch VMOL
 3. Tidak ada kendala
+>>>>>>> bedfef71dab9c66d69c32a9e38ec9c893936ec4a
