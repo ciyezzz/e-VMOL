@@ -222,3 +222,8 @@ Daily Scrum
 Kelvin Hermawan:
 1. Hari ini saya menambahkan komentar untuk desain tampilan VMOL
 2. Tidak ada kendala
+
+Jansen
+1. Hari ini tambah komentar untuk desain tampilan vmol
+2. Tidak ada kendala
+3. Besok akan menyempurnakan lagi
