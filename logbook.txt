@@ -211,9 +211,14 @@ Michael
 1. Kemarin saya menambahkan file scratch ke repository
 2. Hari ini saya mengedit file css dan memberikan saran terhadap design scratch VMOL
 3. Tidak ada kendala
->>>>>>> bedfef71dab9c66d69c32a9e38ec9c893936ec4a
 
 Christian Yaputra
 1. Hari ini saya melanjutkan desain tampilan vmol kemarin
 2. Tidak ada kendala
 3. Besok akan melanjutkan desain lagi
+
+6/6
+Daily Scrum
+Kelvin Hermawan:
+1. Hari ini saya menambahkan komentar untuk desain tampilan VMOL
+2. Tidak ada kendala
