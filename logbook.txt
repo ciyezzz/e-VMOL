@@ -227,3 +227,8 @@ Jansen
 1. Hari ini tambah komentar untuk desain tampilan vmol
 2. Tidak ada kendala
 3. Besok akan menyempurnakan lagi
+
+Michael
+1. Kemarin mengedit file css
+2. Hari ini mengedit slide
+3. Tidak ada kendala
