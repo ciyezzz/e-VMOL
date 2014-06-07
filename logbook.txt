@@ -242,3 +242,7 @@ Christian Yaputra
 Daily Scrum
 1. Hari ini merapikan slide
 2. Tidak ada kendala
+
+Christian Yaputra:
+1. Hari ini saya menambahkan slide untuk preview vmol
+2. Tidak ada kendala
